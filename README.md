@@ -1,3 +1,3 @@
-# rKokoa clon 2020 Update
+# Kokoa clon 2020 Update
 
 CSS got so much better!
